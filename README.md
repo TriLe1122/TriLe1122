@@ -1,4 +1,5 @@
 ### Hi there 👋
+Hello and welcome to my GitHub profile! I'm Tri Le and I have recently completed my studies at Boise Codeworks. I am passionate about design and front-end development, but I also have a keen interest in back-end deployment. I find the process of coding to be extremely rewarding, especially the critical thinking and problem-solving involved. I love the feeling of accomplishment when I solve a particularly challenging problem, and I am always excited to continue learning and improving in this field. I have a background in customer service and team-based environments, which has given me strong communication and collaboration skills. I enjoy working with others and finding innovative solutions to problems
 <h2 align="left"></h2>
 
 ###
